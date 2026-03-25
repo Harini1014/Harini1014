@@ -24,23 +24,23 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👩‍💻 About Me
+###  About Me
 
 | | |
 |---|---|
-| 👤 **Name** | Harini T |
-| 🎓 **Degree** | M.Sc Data Science (3rd Year) |
-| 📍 **Location** | Tamil Nadu, India |
-| 🎯 **Focus** | Data Science + Machine Learning + Full Stack |
-| 🛠 **Skills** | Python, SQL, ML, NLP, Web Development |
-| 🎯 **Goal** | Get placed in top analytics company |
-| 💼 **Status** | Open to Internships |
+|  **Name** | Harini T |
+|  **Degree** | M.Sc Data Science (3rd Year) |
+|  **Location** | Tamil Nadu, India |
+|  **Focus** | Data Science + Machine Learning + Full Stack |
+|  **Skills** | Python, SQL, ML, NLP, Web Development |
+|  **Goal** | Get placed in top analytics company |
+|  **Status** | Open to Internships |
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -66,13 +66,13 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### ✍️ WriteRight (Grammify)
+###  WriteRight (Grammify)
 AI-powered writing assistant with grammar correction, chatbot, voice practice, and learning tools.
 
 ✔ Text correction & chatbot interface  
@@ -81,7 +81,7 @@ AI-powered writing assistant with grammar correction, chatbot, voice practice, a
 </td>
     <td width="50%" valign="top">
 
-### 💰 FinGuard AI
+###  FinGuard AI
 Financial management system with expense tracking, forecasting, and anomaly detection.
 
 ✔ Smart financial insights & forecasting  
@@ -95,7 +95,7 @@ Financial management system with expense tracking, forecasting, and anomaly dete
   <tr>
     <td width="50%" valign="top">
 
-### 🚨 Crime Report Simplifier
+###  Crime Report Simplifier
 NLP-based system to simplify FIR reports, extract insights, and generate summaries.
 
 ✔ Legal text simplification  
@@ -104,7 +104,7 @@ NLP-based system to simplify FIR reports, extract insights, and generate summari
 </td>
     <td width="50%" valign="top">
 
-### 🌍 Disaster Management Dashboard
+###  Disaster Management Dashboard
 Real-time disaster monitoring dashboard using APIs with maps and alerts.
 
 ✔ Earthquake & disaster tracking  
@@ -118,7 +118,7 @@ Real-time disaster monitoring dashboard using APIs with maps and alerts.
   <tr>
     <td width="50%" valign="top">
 
-### 📊 ATM Usage Pattern Analyzer
+###  ATM Usage Pattern Analyzer
 ML model to detect high-usage ATM zones and downtime patterns.
 
 ✔ Spatial data clustering  
@@ -127,7 +127,7 @@ ML model to detect high-usage ATM zones and downtime patterns.
 </td>
     <td width="50%" valign="top">
 
-### 🧠 EUNOIA (Mental Health Platform)
+###  EUNOIA (Mental Health Platform)
 AI-powered journaling and mood-based recommendation system.
 
 ✔ Mood-based content recommendations  
@@ -139,7 +139,7 @@ AI-powered journaling and mood-based recommendation system.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -150,19 +150,19 @@ AI-powered journaling and mood-based recommendation system.
 
 ---
 
-## 💼 Open To Opportunities
+##  Open To Opportunities
 
 <div align="center">
 
 | Role | Status |
 |------|--------|
-| 📊 Data Analyst Intern | ✅ Available |
-| 🤖 ML / Data Science Intern | ✅ Available |
-| 🌐 Full Stack Intern | ✅ Available |
+|  Data Analyst Intern | ✅ Available |
+|  ML / Data Science Intern | ✅ Available |
+|  Full Stack Intern | ✅ Available |
 
 <br/>
 
-📬 **Let's connect and build something amazing!**
+ **Let's connect and build something amazing!**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/harini-thangaraj) &nbsp;|&nbsp; 🌐 [Portfolio](https://harini010-portfolio.netlify.app/)
 
