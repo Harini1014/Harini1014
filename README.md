@@ -33,7 +33,6 @@
 |  **Location** | Tamil Nadu, India |
 |  **Focus** | Data Science + Machine Learning + Full Stack |
 |  **Skills** | Python, SQL, ML, NLP, Web Development |
-|  **Goal** | Get placed in top analytics company |
 |  **Status** | Open to Internships |
 
 <br clear="right"/>
